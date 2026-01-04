@@ -93,8 +93,9 @@ temple.html
 ```
 
 ## OUTPUT
-
-<img width="1072" height="609" alt="image" src="https://github.com/user-attachments/assets/f772f2c4-7030-475e-9f05-b7209e213785" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/c064f421-8486-42e5-a872-da9f42da5a95" />
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/e4a7a9b1-8f97-46e0-882d-8cf88b9c0fef" />
+<img width="1917" height="963" alt="image" src="https://github.com/user-attachments/assets/35967528-81f2-4af7-92de-f7c6383e0422" />
 
 
 
